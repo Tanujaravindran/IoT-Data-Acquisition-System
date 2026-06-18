@@ -126,7 +126,7 @@ Data analytics and prediction
 👨‍💻 Author
 
 
-Yuvaraj K
+Tanuja.B.R
 
 
 
